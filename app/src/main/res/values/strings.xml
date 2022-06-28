@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name" translatable="false">FindPark</string>
+    <string name="Auto">Car</string>
+    <string name="Bicicleta">Bicycle</string>
+
+</resources>
