@@ -2,5 +2,8 @@
     <string name="app_name" translatable="false">FindPark</string>
     <string name="Auto">Car</string>
     <string name="Bicicleta">Bicycle</string>
+    <string name="Privado">Private</string>
+    <string name="Publico">Public</string>
+    <string name="Ir">Go</string>
 
 </resources>

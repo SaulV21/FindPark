@@ -14,6 +14,9 @@
         android:theme="@style/Theme.FindPark"
         tools:targetApi="31">
         <activity
+            android:name=".opcionnavegacion"
+            android:exported="false" />
+        <activity
             android:name=".Menu_navegacion"
             android:exported="false" />
         <activity

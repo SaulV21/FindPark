@@ -2,4 +2,7 @@
 <resources>
     <string name="Auto">Auto</string>
     <string name="Bicicleta">Bicicleta</string>
+    <string name="Privado">Privado</string>
+    <string name="Publico">Público</string>
+    <string name="Ir">Ir</string>
 </resources>
